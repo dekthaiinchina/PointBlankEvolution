@@ -1,0 +1,9 @@
+F:\Visual Studio 2022\Projects\PointBlankEvolution\PointBlank.Auth\PointBlankEvolution\PointBlankServer\PointBlank.Auth.exe.config
+F:\Visual Studio 2022\Projects\PointBlankEvolution\PointBlank.Auth\PointBlankEvolution\PointBlankServer\PointBlank.Auth.exe
+F:\Visual Studio 2022\Projects\PointBlankEvolution\PointBlank.Auth\PointBlankEvolution\PointBlankServer\PointBlank.Auth.pdb
+F:\Visual Studio 2022\Projects\PointBlankEvolution\PointBlank.Auth\PointBlankEvolution\PointBlankServer\Encryption.dll
+F:\Visual Studio 2022\Projects\PointBlankEvolution\PointBlank.Auth\PointBlankEvolution\PointBlankServer\Npgsql.dll
+F:\Visual Studio 2022\Projects\PointBlankEvolution\PointBlank.Auth\PointBlankEvolution\PointBlankServer\PointBlank.Core.dll
+F:\Visual Studio 2022\Projects\PointBlankEvolution\PointBlank.Auth\PointBlankEvolution\PointBlankServer\System.ValueTuple.dll
+F:\Visual Studio 2022\Projects\PointBlankEvolution\PointBlank.Auth\PointBlankEvolution\PointBlankServer\System.Threading.Tasks.Extensions.dll
+F:\Visual Studio 2022\Projects\PointBlankEvolution\PointBlank.Auth\PointBlankEvolution\PointBlankServer\System.Runtime.CompilerServices.Unsafe.dll

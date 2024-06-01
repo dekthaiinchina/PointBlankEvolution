@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Visual Studio 2022\\Projects\\PointBlankEvolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|PointBlank.Battle||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|PointBlank.Game||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|PointBlank.Auth||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{632BC518-2F17-44EA-BB68-7B0895698105}|PointBlank.Auth\\PointBlank.Auth.csproj|f:\\visual studio 2022\\projects\\pointblankevolution\\pointblank.auth\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F26FB9C0-B65F-4717-A2D3-FC925267EAF1}|PointBlank.Game\\PointBlank.Game.csproj|f:\\visual studio 2022\\projects\\pointblankevolution\\pointblank.game\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1712D40C-1371-4EBA-91F8-66F61716A3F5}|PointBlank.Battle\\PointBlank.Battle.csproj|f:\\visual studio 2022\\projects\\pointblankevolution\\pointblank.battle\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PointBlank.Auth",
+              "DocumentMoniker": "F:\\Visual Studio 2022\\Projects\\PointBlankEvolution\\PointBlank.Auth\\PointBlank.Auth.csproj",
+              "RelativeDocumentMoniker": "PointBlank.Auth\\PointBlank.Auth.csproj",
+              "ToolTip": "F:\\Visual Studio 2022\\Projects\\PointBlankEvolution\\PointBlank.Auth\\PointBlank.Auth.csproj",
+              "RelativeToolTip": "PointBlank.Auth\\PointBlank.Auth.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-11T12:18:36.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PointBlank.Game",
+              "DocumentMoniker": "F:\\Visual Studio 2022\\Projects\\PointBlankEvolution\\PointBlank.Game\\PointBlank.Game.csproj",
+              "RelativeDocumentMoniker": "PointBlank.Game\\PointBlank.Game.csproj",
+              "ToolTip": "F:\\Visual Studio 2022\\Projects\\PointBlankEvolution\\PointBlank.Game\\PointBlank.Game.csproj",
+              "RelativeToolTip": "PointBlank.Game\\PointBlank.Game.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-11T12:18:42.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PointBlank.Battle",
+              "DocumentMoniker": "F:\\Visual Studio 2022\\Projects\\PointBlankEvolution\\PointBlank.Battle\\PointBlank.Battle.csproj",
+              "RelativeDocumentMoniker": "PointBlank.Battle\\PointBlank.Battle.csproj",
+              "ToolTip": "F:\\Visual Studio 2022\\Projects\\PointBlankEvolution\\PointBlank.Battle\\PointBlank.Battle.csproj",
+              "RelativeToolTip": "PointBlank.Battle\\PointBlank.Battle.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-11T12:18:39.721Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
